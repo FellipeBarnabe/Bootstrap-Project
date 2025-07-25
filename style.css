@@ -13,3 +13,17 @@
 .diamond__container{
     color: #DAFF01;
 }
+
+.botao-lilas {
+  background-color: #9353FF !important;
+  color: white !important;
+}
+
+.botao__lilas-hover {
+  background-color: #9353FF; ; 
+  transition: background-color 0.3s ease;
+}
+
+.botao__lilas-hover:hover {
+  background:#0d6efd; 
+}
