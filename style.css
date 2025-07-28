@@ -27,3 +27,20 @@
 .botao__lilas-hover:hover {
   background:#0d6efd; 
 }
+
+.posicao{
+  top:70%
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
+
+/*@media (min-width: 768px) and (max-width: 1440px) {
+  .img-ajuste-tablet {
+    min-height: 260px;
+    object-fit: cover;
+  }
+}
